@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/NahimRgz"><img src="https://api.daily.dev/devcards/bb74ef3f5a1d486487211ea05436647a.png?r=7ao" width="400" alt="Nahim's Dev Card"/></a>
+
 <!--
 **nahimrgz/nahimrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
