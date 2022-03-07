@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mszeles&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahimrgz&label=Profile%20views&color=0e75b6&style=flat" alt="nahimrgz" /> </p>
 <a href="https://app.daily.dev/NahimRgz"><img src="https://github.com/nahimrgz/nahimrgz/blob/main/devcard.svg" width="400" alt="Nahim's Dev Card"/></a>
 
 <!--
